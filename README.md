@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aadipoojya Mehra
 
-<!--
-**isthat-aadi/isthat-aadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student @ JK Lakshmipat University, Jaipur | Web Developer
 
-Here are some ideas to get you started:
+I build real-world Progressive Web Apps using HTML, CSS, JavaScript, and Firebase.
+Currently in my 1st year but already shipping projects that solve genuine problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**NARUKSHA** — Women's Safety PWA
+Real-time location sharing, SOS alerts, multilingual support. (Completed)
+
+**Familia** — Family Care App
+Medication and health management for families. (In Progress)
+
+---
+
+## Skills
+HTML · CSS · JavaScript · C · Firebase · GitHub · VS Code
+
+---
+
+## Contact
+- Portfolio: https://isthat-aadi.github.io/resume/
+- LinkedIn: Aadipoojya Mehra
+- Email: mehraaadipoojya@gmail.com
