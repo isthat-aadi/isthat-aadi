@@ -23,3 +23,4 @@ HTML · CSS · JavaScript · C · Firebase · GitHub · VS Code
 - Portfolio: https://isthat-aadi.github.io/resume/
 - LinkedIn: Aadipoojya Mehra
 - Email: mehraaadipoojya@gmail.com
+- LinkTree: https://linktr.ee/mehraaadipoojya
